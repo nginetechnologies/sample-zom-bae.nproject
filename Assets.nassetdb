@@ -1,0 +1,25 @@
+{
+    "3bf3142d-36c4-4d4c-b685-92cce6f23792": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Zom Bae",
+        "thumbnail": "ba1f3966-4759-9829-0c7b-ad1221ecc167",
+        "tags": [
+            "26146dde-42b7-44b8-9d39-57d6e89d39fb"
+        ]
+    },
+    "849f2e7c-cb1a-4a09-c1eb-130912060caf": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "ba1f3966-4759-9829-0c7b-ad1221ecc167": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Zom_Bae_Thumb.tex.nasset"
+    },
+    "e34a6284-97c5-4410-a56a-2d92e135ebe1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Zom Bae.scene.nasset"
+    },
+    "guid": "849f2e7c-cb1a-4a09-c1eb-130912060caf"
+}
